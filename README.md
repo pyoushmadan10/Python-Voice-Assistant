@@ -22,7 +22,11 @@ You need to download and install some modules in cmd with the help of pip to run
 
 `pip install webbrowser`
 
-`pip install random`
+`pip install pyautogui`
+
+`pip install screen-brightness-control`
+
+
 
 
 ## Contributing
